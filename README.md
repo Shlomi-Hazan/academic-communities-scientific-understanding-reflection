@@ -39,14 +39,14 @@ A few other points the article makes:
 How the reflection's ideas connect, logically:
 
 <p align="center">
-  <img src="assets/argument-map-he.png" alt="מפת הטיעון המרכזי: from the article's credit statement, through the parents-and-teachers and universities comparisons, to the question of who owns an AI-discovered drug" width="720">
+  <img src="assets/argument-map-en.png" alt="The central argument map: from the article's credit statement, through the parents-and-teachers and universities comparisons, to the question of who owns an AI-discovered drug" width="720">
 </p>
 
 <details>
-<summary><b>English version of the diagram</b></summary>
+<summary><b>Hebrew version of the diagram</b></summary>
 
 <p align="center">
-  <img src="assets/argument-map-en.png" alt="The central argument map: from the article's credit statement, through the parents-and-teachers and universities comparisons, to the question of who owns an AI-discovered drug" width="720">
+  <img src="assets/argument-map-he.png" alt="מפת הטיעון המרכזי: from the article's credit statement, through the parents-and-teachers and universities comparisons, to the question of who owns an AI-discovered drug" width="720">
 </p>
 
 </details>
